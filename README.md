@@ -1,4 +1,4 @@
-// HOW TO USE GRID-MAKER BY WOWELIOLOF
+Simply open "GridMaker.ahk" and follow the instructions below.
 
 Press X and it will output the current x coordinate of your mouse into Gridx.txt
 
